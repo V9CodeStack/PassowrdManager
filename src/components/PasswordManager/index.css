@@ -1,0 +1,182 @@
+.app-container {
+  background-color: #9ba9eb;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.sub-container {
+  width: 90%;
+}
+
+.logo-container {
+  width: 100px;
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.app-logo {
+  width: 100px;
+}
+
+.input-password-container {
+  background-color: #5763a5;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.password-container {
+  background-color: #454f84;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 220px;
+}
+
+.password-header {
+  color: white;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.input-card {
+  background-color: white;
+}
+
+.input {
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+
+.input-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.input-img {
+  width: 20px;
+  padding-right: 5px;
+}
+
+.input {
+  height: 100%;
+  border-left: 1px solid lightgray;
+}
+
+.button-card {
+  text-align: right;
+  margin-bottom: 5px;
+}
+
+.password-image {
+  width: 200px;
+}
+
+.below-container {
+  background-color: #5763a5;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.below-card1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para {
+  font-size: 12px;
+  color: white;
+}
+.below-input-search {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  width: 120px;
+}
+
+.show-password-card {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ul-list {
+  padding: 0;
+  list-style-type: none;
+  margin-top: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.initial {
+  background-color: #10b981;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: 0;
+}
+
+.delete-img {
+  width: 15px;
+  cursor: pointer;
+}
+
+.para-text {
+  padding: 0;
+  margin: 0;
+}
+
+.list {
+  width: 170px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  border: 1px solid lightgrey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.strs {
+  width: 30px;
+}
+
+.last {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.noPasswords {
+  width: 300px;
+}
